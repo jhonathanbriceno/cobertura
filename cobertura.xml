@@ -6655,5 +6655,6 @@
           </lines>
         </class>
       </classes>
-  </packages>
+    </package>
+     </packages>
 </coverage>
