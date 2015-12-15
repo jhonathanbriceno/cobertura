@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.1721468536828390" branch-rate="1.0000000000000000" lines-covered="2246" lines-valid="13047" branches-covered="0" branches-valid="0" complexity="0.0" timestamp="1450194053" version="Slather 1.8.1">
+<coverage line-rate="0.1721468536828390" branch-rate="1.0000000000000000" lines-covered="2246" lines-valid="13047" branches-covered="0" branches-valid="0" complexity="0.0" timestamp="1450132871" version="Slather 1.8.1">
   <sources>
-    <source>/Users/hudson/build/workspace/Bento-iOS-CI/Bento/lib</source>
+    <source>/Users/hudson/build/workspace/bento-ios-jbtest/Bento/lib</source>
   </sources>
   <packages>
-    <package name=".........bento-ios-jbtest.Bento.lib.BentoLib" line-rate="0.2702702702702703" branch-rate="1.0000000000000000" complexity="0.0">
+    <package name="BentoLib" line-rate="0.2702702702702703" branch-rate="1.0000000000000000" complexity="0.0">
       <classes>
-        <class name="KeychainItemWrapper.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/KeychainItemWrapper.m" line-rate="0.8224852071005917" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="KeychainItemWrapper.m" filename="BentoLib/KeychainItemWrapper.m" line-rate="0.8224852071005917" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="93" branch="false" hits="18"/>
@@ -181,7 +181,7 @@
             <line number="277" branch="false" hits="4"/>
           </lines>
         </class>
-        <class name="NSString+ViacomMRAID.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/NSString+ViacomMRAID.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="NSString+ViacomMRAID.m" filename="BentoLib/NSString+ViacomMRAID.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="0"/>
@@ -201,7 +201,7 @@
             <line number="27" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="UIWebView+ViacomMRAID.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/UIWebView+ViacomMRAID.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="UIWebView+ViacomMRAID.m" filename="BentoLib/UIWebView+ViacomMRAID.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="0"/>
@@ -226,7 +226,7 @@
             <line number="32" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBHeartbeatDelegate.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBHeartbeatDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBHeartbeatDelegate.m" filename="BentoLib/VMNADBHeartbeatDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="16" branch="false" hits="0"/>
@@ -234,7 +234,7 @@
             <line number="18" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBHeartbeatPlugin.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBHeartbeatPlugin.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBHeartbeatPlugin.m" filename="BentoLib/VMNADBHeartbeatPlugin.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="14" branch="false" hits="0"/>
@@ -242,7 +242,7 @@
             <line number="16" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBMobileAnalytics.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBMobileAnalytics.m" line-rate="0.6661786237188873" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBMobileAnalytics.m" filename="BentoLib/VMNADBMobileAnalytics.m" line-rate="0.6661786237188873" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="27" branch="false" hits="1"/>
@@ -930,7 +930,7 @@
             <line number="782" branch="false" hits="2"/>
           </lines>
         </class>
-        <class name="VMNADBMobileConfigOverride.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBMobileConfigOverride.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBMobileConfigOverride.m" filename="BentoLib/VMNADBMobileConfigOverride.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="16" branch="false" hits="0"/>
@@ -1034,7 +1034,7 @@
             <line number="117" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBMobileTargeting.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBMobileTargeting.m" line-rate="0.6428571428571429" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBMobileTargeting.m" filename="BentoLib/VMNADBMobileTargeting.m" line-rate="0.6428571428571429" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="22" branch="false" hits="0"/>
@@ -1067,7 +1067,7 @@
             <line number="54" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBMobileVO.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBMobileVO.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBMobileVO.m" filename="BentoLib/VMNADBMobileVO.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="25" branch="false" hits="0"/>
@@ -1107,7 +1107,7 @@
             <line number="59" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBMobileVideoSubscriber.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBMobileVideoSubscriber.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBMobileVideoSubscriber.m" filename="BentoLib/VMNADBMobileVideoSubscriber.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="63" branch="false" hits="0"/>
@@ -1309,7 +1309,7 @@
             <line number="273" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNADBReportBasicPage.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportBasicPage.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportBasicPage.m" filename="BentoLib/VMNADBReportBasicPage.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="22" branch="false" hits="2"/>
@@ -1361,7 +1361,7 @@
             <line number="71" branch="false" hits="2"/>
           </lines>
         </class>
-        <class name="VMNADBReportConversion.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportConversion.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportConversion.m" filename="BentoLib/VMNADBReportConversion.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="12" branch="false" hits="1"/>
@@ -1397,7 +1397,7 @@
             <line number="43" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportCore.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportCore.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportCore.m" filename="BentoLib/VMNADBReportCore.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="24" branch="false" hits="11"/>
@@ -1436,7 +1436,7 @@
             <line number="60" branch="false" hits="9"/>
           </lines>
         </class>
-        <class name="VMNADBReportDeepLink.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportDeepLink.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportDeepLink.m" filename="BentoLib/VMNADBReportDeepLink.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="12" branch="false" hits="1"/>
@@ -1474,7 +1474,7 @@
             <line number="45" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportFavorites.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportFavorites.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportFavorites.m" filename="BentoLib/VMNADBReportFavorites.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="1"/>
@@ -1514,7 +1514,7 @@
             <line number="48" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportFullScreen.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportFullScreen.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportFullScreen.m" filename="BentoLib/VMNADBReportFullScreen.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="1"/>
@@ -1548,7 +1548,7 @@
             <line number="42" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportNotification.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportNotification.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportNotification.m" filename="BentoLib/VMNADBReportNotification.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="1"/>
@@ -1586,7 +1586,7 @@
             <line number="46" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportSearch.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportSearch.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportSearch.m" filename="BentoLib/VMNADBReportSearch.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="13" branch="false" hits="2"/>
@@ -1630,7 +1630,7 @@
             <line number="52" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNADBReportShare.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNADBReportShare.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNADBReportShare.m" filename="BentoLib/VMNADBReportShare.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="14" branch="false" hits="1"/>
@@ -1671,7 +1671,7 @@
             <line number="50" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNAdComponent.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdComponent.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdComponent.m" filename="BentoLib/VMNAdComponent.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="29" branch="false" hits="0"/>
@@ -1787,7 +1787,7 @@
             <line number="146" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdComponentController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdComponentController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdComponentController.m" filename="BentoLib/VMNAdComponentController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="103" branch="false" hits="0"/>
@@ -2455,7 +2455,7 @@
             <line number="889" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdContentViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdContentViewController.m" filename="BentoLib/VMNAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="0"/>
@@ -2541,7 +2541,7 @@
             <line number="117" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdContentViewControllerFactory.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdContentViewControllerFactory.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdContentViewControllerFactory.m" filename="BentoLib/VMNAdContentViewControllerFactory.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="26" branch="false" hits="0"/>
@@ -2576,7 +2576,7 @@
             <line number="62" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdDetails.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdDetails.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdDetails.m" filename="BentoLib/VMNAdDetails.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="14" branch="false" hits="0"/>
@@ -2590,7 +2590,7 @@
             <line number="22" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdTrackingManager.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdTrackingManager.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdTrackingManager.m" filename="BentoLib/VMNAdTrackingManager.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="28" branch="false" hits="0"/>
@@ -2647,7 +2647,7 @@
             <line number="83" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAdView.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAdView.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAdView.m" filename="BentoLib/VMNAdView.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="20" branch="false" hits="0"/>
@@ -2694,7 +2694,7 @@
             <line number="65" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNAnalyticsPluginDelegate.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNAnalyticsPluginDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNAnalyticsPluginDelegate.m" filename="BentoLib/VMNAnalyticsPluginDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="9" branch="false" hits="0"/>
@@ -2702,7 +2702,7 @@
             <line number="11" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNBento.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBento.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBento.m" filename="BentoLib/VMNBento.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="15" branch="false" hits="0"/>
@@ -2725,7 +2725,7 @@
             <line number="39" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNBentoApplicationDelegate.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBentoApplicationDelegate.m" line-rate="0.5517241379310345" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBentoApplicationDelegate.m" filename="BentoLib/VMNBentoApplicationDelegate.m" line-rate="0.5517241379310345" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="1"/>
@@ -2817,7 +2817,7 @@
             <line number="114" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNBentoLibConstants.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBentoLibConstants.m" line-rate="0.5419847328244275" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBentoLibConstants.m" filename="BentoLib/VMNBentoLibConstants.m" line-rate="0.5419847328244275" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="678" branch="false" hits="11"/>
@@ -2953,7 +2953,7 @@
             <line number="841" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNBentoPlayerDelegate.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBentoPlayerDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBentoPlayerDelegate.m" filename="BentoLib/VMNBentoPlayerDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="23" branch="false" hits="0"/>
@@ -3060,7 +3060,7 @@
             <line number="292" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNBentoUtil.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBentoUtil.m" line-rate="0.2820512820512820" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBentoUtil.m" filename="BentoLib/VMNBentoUtil.m" line-rate="0.2820512820512820" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="0"/>
@@ -3104,7 +3104,7 @@
             <line number="59" branch="false" hits="21"/>
           </lines>
         </class>
-        <class name="VMNBrowserAdContentViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBrowserAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBrowserAdContentViewController.m" filename="BentoLib/VMNBrowserAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="17" branch="false" hits="0"/>
@@ -3143,7 +3143,7 @@
             <line number="61" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNBumperViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNBumperViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNBumperViewController.m" filename="BentoLib/VMNBumperViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="0"/>
@@ -3271,7 +3271,7 @@
             <line number="152" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNComscore.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNComscore.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNComscore.m" filename="BentoLib/VMNComscore.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="26" branch="false" hits="0"/>
@@ -3306,7 +3306,7 @@
             <line number="57" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNConfigSettings.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNConfigSettings.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNConfigSettings.m" filename="BentoLib/VMNConfigSettings.m" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="14" branch="false" hits="4"/>
@@ -3539,7 +3539,7 @@
             <line number="248" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNConfigSettingsProvider.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNConfigSettingsProvider.m" line-rate="0.6666666666666666" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNConfigSettingsProvider.m" filename="BentoLib/VMNConfigSettingsProvider.m" line-rate="0.6666666666666666" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="2"/>
@@ -3640,7 +3640,7 @@
             <line number="121" branch="false" hits="5"/>
           </lines>
         </class>
-        <class name="VMNFacade.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNFacade.m" line-rate="0.1086956521739130" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNFacade.m" filename="BentoLib/VMNFacade.m" line-rate="0.1086956521739130" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="71" branch="false" hits="23"/>
@@ -3921,7 +3921,7 @@
             <line number="394" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNFullAdViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNFullAdViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNFullAdViewController.m" filename="BentoLib/VMNFullAdViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="57" branch="false" hits="0"/>
@@ -4392,7 +4392,7 @@
             <line number="572" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNInternetDataFetcher.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNInternetDataFetcher.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNInternetDataFetcher.m" filename="BentoLib/VMNInternetDataFetcher.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="23" branch="false" hits="0"/>
@@ -4445,7 +4445,7 @@
             <line number="76" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNInvokeOperation.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNInvokeOperation.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNInvokeOperation.m" filename="BentoLib/VMNInvokeOperation.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="20" branch="false" hits="0"/>
@@ -4467,7 +4467,7 @@
             <line number="37" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNInvokeQueue.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNInvokeQueue.m" line-rate="0.3333333333333333" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNInvokeQueue.m" filename="BentoLib/VMNInvokeQueue.m" line-rate="0.3333333333333333" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="23" branch="false" hits="1"/>
@@ -4529,7 +4529,7 @@
             <line number="87" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNKeychainUtility.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNKeychainUtility.m" line-rate="0.9173553719008265" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNKeychainUtility.m" filename="BentoLib/VMNKeychainUtility.m" line-rate="0.9173553719008265" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="15" branch="false" hits="11"/>
@@ -4655,7 +4655,7 @@
             <line number="147" branch="false" hits="2"/>
           </lines>
         </class>
-        <class name="VMNMBAppLaunchData.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNMBAppLaunchData.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNMBAppLaunchData.m" filename="BentoLib/VMNMBAppLaunchData.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="23" branch="false" hits="0"/>
@@ -4716,7 +4716,7 @@
             <line number="82" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNMRAIDController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNMRAIDController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNMRAIDController.m" filename="BentoLib/VMNMRAIDController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="56" branch="false" hits="0"/>
@@ -5026,7 +5026,7 @@
             <line number="379" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNMegaBaconSubscriber.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNMegaBaconSubscriber.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNMegaBaconSubscriber.m" filename="BentoLib/VMNMegaBaconSubscriber.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="31" branch="false" hits="0"/>
@@ -5129,7 +5129,7 @@
             <line number="145" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNMultiCastDelegates.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNMultiCastDelegates.m" line-rate="0.2592592592592592" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNMultiCastDelegates.m" filename="BentoLib/VMNMultiCastDelegates.m" line-rate="0.2592592592592592" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="25" branch="false" hits="0"/>
@@ -5188,7 +5188,7 @@
             <line number="87" branch="false" hits="20"/>
           </lines>
         </class>
-        <class name="VMNNielsen.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsen.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsen.m" filename="BentoLib/VMNNielsen.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="44" branch="false" hits="0"/>
@@ -5367,7 +5367,7 @@
             <line number="237" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNNielsenAppInfo.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsenAppInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsenAppInfo.m" filename="BentoLib/VMNNielsenAppInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="17" branch="false" hits="0"/>
@@ -5392,7 +5392,7 @@
             <line number="36" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNNielsenChannelInfo.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsenChannelInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsenChannelInfo.m" filename="BentoLib/VMNNielsenChannelInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="16" branch="false" hits="0"/>
@@ -5412,7 +5412,7 @@
             <line number="30" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNNielsenMetaDataInfo.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsenMetaDataInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsenMetaDataInfo.m" filename="BentoLib/VMNNielsenMetaDataInfo.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="19" branch="false" hits="0"/>
@@ -5442,7 +5442,7 @@
             <line number="43" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNNielsenOptOutController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsenOptOutController.m" line-rate="0.5468750000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsenOptOutController.m" filename="BentoLib/VMNNielsenOptOutController.m" line-rate="0.5468750000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="24" branch="false" hits="2"/>
@@ -5511,7 +5511,7 @@
             <line number="93" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNNielsenOptOutViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNNielsenOptOutViewController.m" line-rate="0.6718750000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNNielsenOptOutViewController.m" filename="BentoLib/VMNNielsenOptOutViewController.m" line-rate="0.6718750000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="29" branch="false" hits="4"/>
@@ -5644,7 +5644,7 @@
             <line number="175" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNOnlineImageView.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNOnlineImageView.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNOnlineImageView.m" filename="BentoLib/VMNOnlineImageView.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="24" branch="false" hits="0"/>
@@ -5697,7 +5697,7 @@
             <line number="78" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNPlayStateController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNPlayStateController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNPlayStateController.m" filename="BentoLib/VMNPlayStateController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="30" branch="false" hits="0"/>
@@ -5822,7 +5822,7 @@
             <line number="170" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNRichAdContentViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNRichAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNRichAdContentViewController.m" filename="BentoLib/VMNRichAdContentViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="21" branch="false" hits="0"/>
@@ -5908,7 +5908,7 @@
             <line number="107" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNSmallAdViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNSmallAdViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNSmallAdViewController.m" filename="BentoLib/VMNSmallAdViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="56" branch="false" hits="0"/>
@@ -6109,7 +6109,7 @@
             <line number="262" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNStoreImageViewController.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNStoreImageViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNStoreImageViewController.m" filename="BentoLib/VMNStoreImageViewController.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="21" branch="false" hits="0"/>
@@ -6166,7 +6166,7 @@
             <line number="78" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNTVEEventWrapper.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNTVEEventWrapper.m" line-rate="0.6753246753246753" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNTVEEventWrapper.m" filename="BentoLib/VMNTVEEventWrapper.m" line-rate="0.6753246753246753" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="37" branch="false" hits="10"/>
@@ -6248,7 +6248,7 @@
             <line number="117" branch="false" hits="1"/>
           </lines>
         </class>
-        <class name="VMNURLRequest.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNURLRequest.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNURLRequest.m" filename="BentoLib/VMNURLRequest.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="14" branch="false" hits="0"/>
@@ -6325,7 +6325,7 @@
             <line number="88" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNVHBDelegate.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNVHBDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNVHBDelegate.m" filename="BentoLib/VMNVHBDelegate.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="33" branch="false" hits="0"/>
@@ -6376,7 +6376,7 @@
             <line number="82" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNVIPServiceManager.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNVIPServiceManager.m" line-rate="0.1090909090909091" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNVIPServiceManager.m" filename="BentoLib/VMNVIPServiceManager.m" line-rate="0.1090909090909091" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="25" branch="false" hits="0"/>
@@ -6491,7 +6491,7 @@
             <line number="139" branch="false" hits="11"/>
           </lines>
         </class>
-        <class name="VMNVideoData.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNVideoData.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNVideoData.m" filename="BentoLib/VMNVideoData.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="18" branch="false" hits="0"/>
@@ -6555,7 +6555,7 @@
             <line number="79" branch="false" hits="0"/>
           </lines>
         </class>
-        <class name="VMNVideoMetadataFactory.m" filename="../../../bento-ios-jbtest/Bento/lib/BentoLib/VMNVideoMetadataFactory.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+        <class name="VMNVideoMetadataFactory.m" filename="BentoLib/VMNVideoMetadataFactory.m" line-rate="0.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
           <methods/>
           <lines>
             <line number="21" branch="false" hits="0"/>
